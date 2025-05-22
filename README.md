@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### Study-of-Basic-Gates
 
 **AIM:** 
 
@@ -10,9 +10,17 @@ Software – Quartus prime
 
 **Theory**
 
-Introduction Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
+Introduction Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as,
 
-AND gate OR gate NOT gate NAND gate NOR gate Ex-OR gate Ex-NOR gate
+    - AND gate 
+    - OR gate 
+    - NOT gate 
+
+                * NAND gate 
+                * NOR gate 
+
+                            1. Ex-OR gate 
+                            2. Ex-NOR gate
 
 **AND gate**
 
@@ -66,13 +74,18 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+**Developed by:**
+
+***Name:*** *Santhosh T*
+
+***Register Number :*** 212223220100 
  
 **Logic symbol & Truthtable**
 
 **RTL realization Output:** 
 
 **RTL**
+![alt text](image.png)
 
 **Result:**
 
