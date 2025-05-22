@@ -81,12 +81,17 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 ***Register Number :*** 212223220100 
  
 **Logic symbol & Truthtable**
-
+![alt text](LogicGates&TruthTable.jpg)
 **RTL realization Output:** 
 
 **RTL**
 ![alt text](image.png)
 
+**OUTPUT:**
+
+
 **Result:**
+
+The truth table of logic gates in Quartus II using Verilog programming is verified.
 
 
